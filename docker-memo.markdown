@@ -20,10 +20,10 @@ python manage.py test ディレクトリ名
 
 ## 参照
 
-・Django ドキュメント <a href="http://qiita.com/gcfuji/items/bff55a0b8ae1b76c0ca1" target="_blank">http://qiita.com/gcfuji/items/bff55a0b8ae1b76c0ca1</a>
+・Django ドキュメント [https://docs.djangoproject.com/ja/1.11/](https://docs.djangoproject.com/ja/1.11/)
 
 
-・Django チュートリアル <a href="http://qiita.com/gcfuji/items/bff55a0b8ae1b76c0ca1" target="_blank">http://qiita.com/gcfuji/items/bff55a0b8ae1b76c0ca1</a>
+・Django チュートリアル [http://qiita.com/gcfuji/items/bff55a0b8ae1b76c0ca1](http://qiita.com/gcfuji/items/bff55a0b8ae1b76c0ca1)
 
 
-・Django チートシート <a href="https://ehmatthes.github.io/pcc/cheatsheets/README.html" target="_blank">https://ehmatthes.github.io/pcc/cheatsheets/README.html</a>
+・Django チートシート [https://ehmatthes.github.io/pcc/cheatsheets/README.html](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
