@@ -1,9 +1,24 @@
 # Djangoに関するメモ
 
+## Django環境
+
+| ソリューション | インストール方法 |
+| --- | --- |
+| Python | Macはデフォルトで入ってるいるのでなし Windowsは[こちら](http://qiita.com/taipon_rock/items/f574dd2cddf8851fb02c)から |
+| Django | なし |
+| Redis | [参照先](http://qiita.com/checkpoint/items/58b9b0193c0c46400eeb) |
+| MySQL | [参照先](http://qiita.com/shizuma/items/1889dfd6055d69edac8e#mysql56%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB) |
+
+## Docker環境構築
+
+DjangoのDocker環境構築は[こちら](https://github.com/ebarakazuhiro/docker-django)のリポジトリを参照
+
+
 ## virtualenvのセットアップ手順
 
 
 virtualenvはPythonのいろいろな実行環境を仮想的に提供する仮想環境です。
+もしDockerよりもvirtualenvの方がいい場合は、以下のセットアップ参照
 
 ### pythonzインストール
 
