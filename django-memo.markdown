@@ -109,6 +109,9 @@ python manage.py test
 ## 特定のディレクトリ内のテストコードの確認
 python manage.py test ディレクトリ名
 
+## --failfastをつけると途中でエラーが起きた場合、強制的に処理が終了する
+python manage.py test ディレクトリ名 --failfast
+
 ```
 
 ## 参照
