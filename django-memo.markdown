@@ -114,6 +114,12 @@ python manage.py test ディレクトリ名 --failfast
 
 ```
 
+
+## ローカライズ
+
+ローカライズに関しては[こちら](https://torina.top/detail/326/)を参照
+
+
 ## 参照
 
 ・Django ドキュメント [https://docs.djangoproject.com/ja/1.11/](https://docs.djangoproject.com/ja/1.11/)
