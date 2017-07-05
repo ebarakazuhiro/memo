@@ -112,6 +112,10 @@ python manage.py test ディレクトリ名
 ## --failfastをつけると途中でエラーが起きた場合、強制的に処理が終了する
 python manage.py test ディレクトリ名 --failfast
 
+## 特定のファイル名のみをテストする場合
+python manage.py test ディレクトリ名.tests.ファイル名
+
+
 ```
 
 
